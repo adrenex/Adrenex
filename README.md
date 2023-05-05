@@ -83,7 +83,7 @@ Concepts: <code>Game Development</code> | <code>Client-Server Application</code>
 <hr>
 
 <p>
-<a href="https://github.com/AnushaNathRoy/Depression-and-Anxiety-Detection-on-Social-Media"><code>Early Depression Detection Model</code> 💬</a>
+<a href="https://github.com/adrenex/Depression-Detection"><code>Depression & Anxiety Detection</code> 💬</a>
 <br>
 <br>
 A machine learning model to predict symptoms of anxiety and depression through social media texts using concepts of NLP and sentiment analysis.
