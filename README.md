@@ -88,7 +88,7 @@ Concepts: <code>Web Development</code> | <code>Responsive Web Design</code> | <c
 <br>
 A machine learning model to predict symptoms of anxiety and depression through social media texts using concepts of NLP and sentiment analysis.
 <br>
-Tech Stack:<code>Scikit-Learn</code> | <code>Python</code>| <code>Jupyter</code>
+Tech Stack:<code>Scikit-Learn</code> | <code>Python</code> | <code>Jupyter</code>
 <br>
 Concepts: <code>Data Science</code> | <code>ML</code> | <code>Sentiment Analysis</code> | <code>NLP</code>
 </p>
@@ -101,11 +101,10 @@ Concepts: <code>Data Science</code> | <code>ML</code> | <code>Sentiment Analysis
 <br>
 Developed a python based application with GUI, where multiple users can interact with each other, following the client-server architecture of networking
 <br>
-Tech Stack:<code>Python</code> | <code>tkinter<code> | <code>VS Code</code>
+Tech Stack:<code>Python</code> | <code>tkinter</code> | <code>VS Code</code>
 <br>
 Concepts: <code>Computer Networking</code> | <code>Sockets.io</code> | <code>GUI</code>
 </p>
-
 <hr>
 
 <p>
