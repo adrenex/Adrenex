@@ -51,33 +51,33 @@ Scraped 1000+ movies’ reviews and analyzed their sentiments with fine-grain an
 <br>
 Tech Stack:<code>Python</code> | <code>Selenium</code>| <code>Jupyter Notebook</code>
 <br>
-Concepts: <code>Data Analysis</code> | <code>Data Science</code> | <code>NLP</code>
+Concepts: <code>Data Analysis</code> | <code>Data Science</code> | <code>NLP</code> | <code>Sentimental Analysis</code>
 </p>
 
 <hr>
 
 <p>
-<a href="https://github.com/AnushaNathRoy/Youtube-Study-Buddy"><code>Youtube-Study-Buddy</code> ⏯️</a>
+<a href="https://github.com/adrenex/Cartoonifying-an-Image"><code>Cartoonifying an Image</code> ⏯️</a>
 <br>
 <br>
-The app assists in ﬁnding the most relevant clickable time-stamps in video transcript for a given search query. This tool is also great for taking notes especially for annotations and research while watching YouTube videos.
+Python GUI app generates cartoon images from uploaded or camera-taken images using deep learning. Filters like brightness and sharpness can be applied.
 <br>
-Tech Stack:<code>Python</code> | <code>Flask</code>| <code>Jinja</code> | <code>Youtube API</code>
+Tech Stack:<code>Python</code> | <code>tkinter</code>| <code>OpenCV</code> | <code>VS Code</code>
 <br>
-Concepts: <code>Web App Development</code> | <code>API</code>
+Concepts: <code>Deep Learning</code> | <code>Image processing</code>
 </p>
 
 <hr>
 
 <p>
-<a href="https://github.com/varshitakolipaka/MoodBingo"><code>MoodBingo!</code> 🎮</a>
+<a href="https://github.com/adrenex/Portfolio"><code>Portfolio!</code> 🎮</a>
 <br>
 <br>
-A heuristic based online multiplayer game. It puts a twist on the classic games of Bingo and Truth or Dare including features such as real-time messaging, breakout rooms and customised prompts.
+I have developed a fully responsive personal portfolio website using HTML, CSS, and JavaScript. The website is designed to display my personal information, skills, projects etc.
 <br>
-Tech Stack:<code>Express</code> | <code>React.JS</code>| <code>Node.JS</code> | <code>Socket.IO</code>
+Tech Stack:<code>HTML</code> | <code>CSS</code>| <code>JavaScript</code> | <code>VS Code</code>
 <br>
-Concepts: <code>Game Development</code> | <code>Client-Server Application</code> | <code>WebSocket</code>
+Concepts: <code>Web Development</code> | <code>Responsive Web Design</code> | <code>UI/UX</code>
 </p>
 
 <hr>
@@ -96,68 +96,63 @@ Concepts: <code>Data Science</code> | <code>ML</code> | <code>Sentiment Analysis
 <hr>
 
 <p>
-<a href="https://github.com/AnushaNathRoy/-SASH-"><code>SASH</code>  🐚💻</a>
+<a href="https://github.com/adrenex/Chat-Application"><code>Chat Application</code>  🐚💻</a>
 <br>
-<i> ~$> Welcome to your new and optimised shell sash! — </i>
+Developed a python based application with GUI, where multiple users can interact with each other, following the client-server architecture of networking
 <br>
+Tech Stack:<code>Python</code> | <code>tkinter<code> | <code>VS Code</code>
 <br>
-A completely operational Bash like shell written in C using system calls, which supports built-in commands, directory management, piping, process handling (background and foreground) as well as input-output redirection.
-<br>
-Tech Stack:<code>C</code> | <code>C++</code>
-<br>
-Concepts: <code>Operating Systems</code> | <code>System Calls</code>
+Concepts: <code>Computer Networking</code> | <code>Sockets.io</code> |<code>GUI</code>
 </p>
 
 <hr>
 
 <p>
-<a href="https://github.com/AnushaNathRoy/KlashOfKlans"><code>KlashOfKlans</code> 👑 </a>
+<a href="https://github.com/adrenex/Predicting-Genres-from-Posters-Synopsis"><code>Classifying movies from Posters, Reviews & Plot</code> 👑 </a>
 <br>
+Created project from 10k+ IMDB movies by scraping data, reviews, and posters. Used neural networks to classify genres from posters, TF-IDF to identify genres from plots, and bag-of-words to determine ratings from reviews
 <br>
-A 2D terminal based game based on Clash of Clans written in Python implementing OOPS concepts. The objective of the game is to destroy as many buildings as possible, and collect the maximum amount of loot while doing so. There will be an army of troops to help the king clean up.
+Tech Stack:<code>Python</code> | <code>CNN</code> | <code>Selenium</code> | <code>Jupyter Notebook</code>
 <br>
-Tech Stack:<code>Python</code> 
+Concepts: <code>Data Analysis</code> | <code>Data Science</code> | <code>NLP</code> | <code></code> | <code>Deep Learning</code>
+</p>
+
+<hr>
+  
+<p>
+<a href="https://github.com/adrenex/Grape-Bunches-Detection-Segementation"><code>Grape Bunches Detection Segementation</code> 🏴‍☠️ </a>
 <br>
-Concepts: <code>OOPS</code> | <code>Game Dev</code>
+Web-APP to accurately to count and perform instance segmentation on grape bunches, in a uploaded image/video. Model trained using latest YoloV8 technology, with custom data set manually annotated.
+<br>
+Tech Stack:<code>Python</code> | <code>yolo</code> | <code>tensorflow</code> | <code>VS Code</code> | <code>PyTorch</code>
+<br>
+Concepts: <code>Image Processing</code> | <code>Deep Learning</code> <code>Object Detection</code> | <code>Data Annotation</code>
 </p>
 
 <hr>
 
 <p>
-<a href="https://github.com/AnushaNathRoy/Treasures-Of-Neverland"><code>Treasures Of Neverland</code> 🏴‍☠️ </a>
+<a href="https://github.com/adrenex/Music-Recommendation-System"><code>Music Recommendation System</code> ⛏️️ </a>
 <br>
 <br>
-A 3D adventure game using Three.js and WebGL. Navigate the seas of Neverland escaping Captain Hook's goons and collecting the lost treasures on the sea! Happy Sailing :)
+Developed a Music Recommender System in python, which recommends on 3 basis, i.e. Content based, Popularity based and Collaborative Filtering.iners!
 <br>
-Tech Stack:<code>WebGL</code> | <code>Three.js</code>
+Tech Stack:<code>Python</code> | <code></code> | <code></code> | <code>Jupyter Notebook</code>
 <br>
-Concepts: <code>Game Dev</code> | <code>Computer Graphics</code> |<code>3D Graphics</code>
+Concepts: <code>Recommendation</code> | <code>Data Science</code> | <code>Collaborative Filetring</code> | <code>Similarity</code> | <code>Deep Learning</code>
 </p>
 
 <hr>
 
 <p>
-<a href="https://github.com/AnushaNathRoy/Mine-Mania"><code>Mine-Mania</code> ⛏️️ </a>
+<a href="https://github.com/adrenex/I-m-Fine">I'm Fine</code> 🎮️️ </a>
 <br>
 <br>
-A 2D top-down adventure game written in OpenGL set in the cold dark Mines of Moria. Collect your riches but beware of the enemies lurking in the dark miners!
+I'm fine is an art project that visually represents depressive mood and thoughts.
 <br>
-Tech Stack:<code>OpenGL</code> | <code>C</code>
+Tech Stack:<code>HTML</code> | <code>CSS</code>| <code>VS Code</code>
 <br>
-Concepts: <code>Game Dev</code> | <code>Computer Graphics</code> |<code>2D Graphics</code>
-</p>
-
-<hr>
-
-<p>
-<a href="https://github.com/AnushaNathRoy/DBD"><code>DBD</code> 🎮️️ </a>
-<br>
-<br>
-A database management CLI system for the well-renowned game Dead By Daylight.
-<br>
-Tech Stack:<code>Python</code> | <code>SQL</code>| <code>sqlite</code>
-<br>
-Concepts: <code>Database Management System</code>
+Concepts: <code>Web Development</code> | <code>Responsive Web Design</code> | <code>UI/UX</code>
 </p>
 
 <hr>
