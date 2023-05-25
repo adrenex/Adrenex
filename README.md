@@ -103,7 +103,7 @@ Developed a python based application with GUI, where multiple users can interact
 <br>
 Tech Stack:<code>Python</code> | <code>tkinter<code> | <code>VS Code</code>
 <br>
-Concepts: <code>Computer Networking</code> | <code>Sockets.io</code> |<code>GUI</code>
+Concepts: <code>Computer Networking</code> | <code>Sockets.io</code> | <code>GUI</code>
 </p>
 
 <hr>
