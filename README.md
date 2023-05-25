@@ -44,14 +44,14 @@
 
 
 <p>
-<a href="https://github.com/AnushaNathRoy/Dromos-Routinge"><code>Dromos</code> 🗺️</a>
+<a href="https://github.com/adrenex/Movie-Review-Analysis"><code>Movie Review Analysis</code> 🗺️</a>
 <br>
 <br>
-A user-friendly routing application that determines the best route by analysing real-time traffic conditions and city data based on Dijkstra’s Algorithm.
+Scraped 1000+ movies’ reviews and analyzed their sentiments with fine-grain and coarse-grain classification based on genre, decade, and production studio etc.
 <br>
-Tech Stack:<code>C</code> | <code>C++</code>| <code>Dot</code>
+Tech Stack:<code>Python</code> | <code>Selenium</code>| <code>Jupyter Notebook</code>
 <br>
-Concepts: <code>Data Structures and Algorithms</code> | <code>Data Analysis</code> | <code>Map</code>
+Concepts: <code>Data Analysis</code> | <code>Data Science</code> | <code>NLP</code>
 </p>
 
 <hr>
