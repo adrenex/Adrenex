@@ -98,6 +98,7 @@ Concepts: <code>Data Science</code> | <code>ML</code> | <code>Sentiment Analysis
 <p>
 <a href="https://github.com/adrenex/Chat-Application"><code>Chat Application</code>  🐚💻</a>
 <br>
+<br>
 Developed a python based application with GUI, where multiple users can interact with each other, following the client-server architecture of networking
 <br>
 Tech Stack:<code>Python</code> | <code>tkinter<code> | <code>VS Code</code>
@@ -110,6 +111,7 @@ Concepts: <code>Computer Networking</code> | <code>Sockets.io</code> |<code>GUI<
 <p>
 <a href="https://github.com/adrenex/Predicting-Genres-from-Posters-Synopsis"><code>Classifying movies from Posters, Reviews & Plot</code> 👑 </a>
 <br>
+<br>
 Created project from 10k+ IMDB movies by scraping data, reviews, and posters. Used neural networks to classify genres from posters, TF-IDF to identify genres from plots, and bag-of-words to determine ratings from reviews
 <br>
 Tech Stack:<code>Python</code> | <code>CNN</code> | <code>Selenium</code> | <code>Jupyter Notebook</code>
@@ -121,6 +123,7 @@ Concepts: <code>Data Analysis</code> | <code>Data Science</code> | <code>NLP</co
   
 <p>
 <a href="https://github.com/adrenex/Grape-Bunches-Detection-Segementation"><code>Grape Bunches Detection Segementation</code> 🏴‍☠️ </a>
+<br>
 <br>
 Web-APP to accurately to count and perform instance segmentation on grape bunches, in a uploaded image/video. Model trained using latest YoloV8 technology, with custom data set manually annotated.
 <br>
