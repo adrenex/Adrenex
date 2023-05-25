@@ -42,7 +42,6 @@
 <br>
 
 
-
 <p>
 <a href="https://github.com/adrenex/Movie-Review-Analysis"><code>Movie Review Analysis</code> 🗺️</a>
 <br>
@@ -52,6 +51,32 @@ Scraped 1000+ movies’ reviews and analyzed their sentiments with fine-grain an
 Tech Stack:<code>Python</code> | <code>Selenium</code>| <code>Jupyter Notebook</code>
 <br>
 Concepts: <code>Data Analysis</code> | <code>Data Science</code> | <code>NLP</code> | <code>Sentimental Analysis</code>
+</p>
+
+<hr>
+
+<p>
+<a href="https://github.com/adrenex/Predicting-Genres-from-Posters-Synopsis"><code>Classifying movies from Posters, Reviews & Plot</code> 👑 </a>
+<br>
+<br>
+Created project from 10k+ IMDB movies by scraping data, reviews, and posters. Used neural networks to classify genres from posters, TF-IDF to identify genres from plots, and bag-of-words to determine ratings from reviews
+<br>
+Tech Stack:<code>Python</code> | <code>CNN</code> | <code>Selenium</code> | <code>Jupyter Notebook</code>
+<br>
+Concepts: <code>Data Analysis</code> | <code>Data Science</code> | <code>NLP</code> | <code></code> | <code>Deep Learning</code>
+</p>
+
+<hr>
+  
+<p>
+<a href="https://github.com/adrenex/Grape-Bunches-Detection-Segementation"><code>Grape Bunches Detection Segementation</code> 🏴‍☠️ </a>
+<br>
+<br>
+Web-APP to accurately to count and perform instance segmentation on grape bunches, in a uploaded image/video. Model trained using latest YoloV8 technology, with custom data set manually annotated.
+<br>
+Tech Stack:<code>Python</code> | <code>yolo</code> | <code>tensorflow</code> | <code>VS Code</code> | <code>PyTorch</code>
+<br>
+Concepts: <code>Image Processing</code> | <code>Deep Learning</code> <code>Object Detection</code> | <code>Data Annotation</code>
 </p>
 
 <hr>
@@ -105,31 +130,6 @@ Tech Stack:<code>Python</code> | <code>tkinter</code> | <code>VS Code</code>
 <br>
 Concepts: <code>Computer Networking</code> | <code>Sockets.io</code> | <code>GUI</code>
 </p>
-<hr>
-
-<p>
-<a href="https://github.com/adrenex/Predicting-Genres-from-Posters-Synopsis"><code>Classifying movies from Posters, Reviews & Plot</code> 👑 </a>
-<br>
-<br>
-Created project from 10k+ IMDB movies by scraping data, reviews, and posters. Used neural networks to classify genres from posters, TF-IDF to identify genres from plots, and bag-of-words to determine ratings from reviews
-<br>
-Tech Stack:<code>Python</code> | <code>CNN</code> | <code>Selenium</code> | <code>Jupyter Notebook</code>
-<br>
-Concepts: <code>Data Analysis</code> | <code>Data Science</code> | <code>NLP</code> | <code></code> | <code>Deep Learning</code>
-</p>
-
-<hr>
-  
-<p>
-<a href="https://github.com/adrenex/Grape-Bunches-Detection-Segementation"><code>Grape Bunches Detection Segementation</code> 🏴‍☠️ </a>
-<br>
-<br>
-Web-APP to accurately to count and perform instance segmentation on grape bunches, in a uploaded image/video. Model trained using latest YoloV8 technology, with custom data set manually annotated.
-<br>
-Tech Stack:<code>Python</code> | <code>yolo</code> | <code>tensorflow</code> | <code>VS Code</code> | <code>PyTorch</code>
-<br>
-Concepts: <code>Image Processing</code> | <code>Deep Learning</code> <code>Object Detection</code> | <code>Data Annotation</code>
-</p>
 
 <hr>
 
@@ -139,7 +139,7 @@ Concepts: <code>Image Processing</code> | <code>Deep Learning</code> <code>Objec
 <br>
 Developed a Music Recommender System in python, which recommends on 3 basis, i.e. Content based, Popularity based and Collaborative Filtering.iners!
 <br>
-Tech Stack:<code>Python</code> | <code></code> | <code></code> | <code>Jupyter Notebook</code>
+Tech Stack:<code>Python</code> | <code>pandas</code> | <code>Jupyter Notebook</code>
 <br>
 Concepts: <code>Recommendation</code> | <code>Data Science</code> | <code>Collaborative Filetring</code> | <code>Similarity</code> | <code>Deep Learning</code>
 </p>
