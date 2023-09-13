@@ -1,4 +1,3 @@
-![MasterHead](https://devpunch.com/img/Dev-At-Work-Gif.jpg)
 <h1 align="center">Hi 👋, I'm Nilesh Popli</h1>
 <h3 align="center">Passionate Coder</h3>
 
